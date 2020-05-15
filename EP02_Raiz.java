@@ -1,11 +1,9 @@
 /*********************************************************************/
-/**   ACH2001 - Introdução à Programação                            **/
 /**   EACH-USP - Primeiro Semestre de 2020                          **/
-/**   <2020194> - <Norton Trevisan Roman>                           **/
 /**                                                                 **/
 /**   Segundo Exercício-Programa                                    **/
 /**                                                                 **/
-/**   <Jose Rafael Rodrigues Nascimento>        <11847801>          **/
+/**   <Jose Rafael Rodrigues Nascimento>                            **/
 /**                                                                 **/
 /**   <23/04/2020>                                                  **/
 /*********************************************************************/
