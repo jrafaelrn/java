@@ -26,7 +26,7 @@
 
 */
 
-public class CaixaEletronico {
+public class EP01_CaixaEletronico {
 	// Número de cédulas de B$50,00
 	static int n50;
 	
