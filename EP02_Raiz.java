@@ -1,16 +1,14 @@
 /*********************************************************************/
-/**   ACH2001 - Introdução à Programação                            **/
 /**   EACH-USP - Primeiro Semestre de 2020                          **/
-/**   <2020194> - <Norton Trevisan Roman>                           **/
 /**                                                                 **/
 /**   Segundo Exercício-Programa                                    **/
 /**                                                                 **/
-/**   <Jose Rafael Rodrigues Nascimento>        <11847801>          **/
+/**   <Jose Rafael Rodrigues Nascimento>                            **/
 /**                                                                 **/
 /**   <23/04/2020>                                                  **/
 /*********************************************************************/
 
-public class Raiz {
+public class EP02_Raiz {
 	/*
 		Calcula a raiz quadrada de um valor, com uma determinada
 		precisão. Retorna esse valor, ou -1 quando:
