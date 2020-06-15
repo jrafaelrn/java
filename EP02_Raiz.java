@@ -8,7 +8,7 @@
 /**   <23/04/2020>                                                  **/
 /*********************************************************************/
 
-public class Raiz {
+public class EP02_Raiz {
 	/*
 		Calcula a raiz quadrada de um valor, com uma determinada
 		precisão. Retorna esse valor, ou -1 quando:
